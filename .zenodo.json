@@ -1,0 +1,29 @@
+{
+  "upload_type": "publication",
+  "publication_type": "other",
+  "title": "How big must an atom be before its filling rule breaks? Introductory text to Where the $n+l$ rule breaks in the Thomas-Fermi atom: certified zero-energy thresholds, Madelung order through $n+l=10$, and the first overlap at $n+l=11$",
+  "creators": [
+    {
+      "name": "Perreault, Michaël",
+      "orcid": "0009-0003-0017-7658",
+      "affiliation": "Independent researcher"
+    }
+  ],
+  "description": "<p>A plain-language introduction to a research paper on where the n+l filling rule first breaks in the Thomas-Fermi atom. The paper has the proofs; this note has the idea, and it says what the paper does and does not claim.</p>",
+  "keywords": [
+    "Madelung rule",
+    "Thomas-Fermi atom",
+    "n+l rule",
+    "periodic table"
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24542256",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    }
+  ]
+}
