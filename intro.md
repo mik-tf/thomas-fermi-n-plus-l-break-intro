@@ -102,6 +102,10 @@ The paper also lists the older work on the question, including Klechkovskii, Lat
 \par\ifdim\dimexpr\pagegoal-\pagetotal\relax<15\baselineskip\ifdim\pagetotal>0pt\newpage\fi\fi
 ```
 
+# Use of AI {-}
+
+Claude (Anthropic) was used in November 2026, under the author's direction, for drafting, figures and checks.
+
 # Read the research paper {-}
 
 ```{=latex}
