@@ -11,6 +11,8 @@ date_footer: "YYYY-MM-DD"
 header_title: "How big must an atom be before its filling rule breaks?"
 ---
 
+DOI of this text: [doi:10.5281/zenodo.24577158](https://doi.org/10.5281/zenodo.24577158)
+
 This is an introductory text to the research paper *Where the $n+l$ rule breaks in the Thomas-Fermi atom: certified zero-energy thresholds, Madelung order through $n+l=10$, and the first overlap at $n+l=11$* [[Per26]](https://doi.org/10.5281/zenodo.24542256), by the same author. The paper has the proofs and the full computations. This note has the idea. No equations are needed to follow it. It makes no claim the paper does not make, and it says which claims are proved, which are certified by computer with error bars, and which are only computed.
 
 One caution comes first, because the paper itself puts it first. This is about a **model**, the pure Thomas-Fermi model, and not about real atoms. An atom of size $Z = 310$ is far beyond any atom that exists. The question is a mathematical one: inside this model, how large must an atom be before a famous rule stops working?
