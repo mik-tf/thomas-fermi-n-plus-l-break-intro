@@ -90,20 +90,6 @@ The paper also lists the older work on the question, including Klechkovskii, Lat
 - The two earlier papers, on the four-sphere [[Per26a]](https://doi.org/10.5281/zenodo.24522163) and on the tie-break inside a group [[Per26b]](https://doi.org/10.5281/zenodo.24533673).
 - The theorem for very large atoms [[BFHS25]](https://arxiv.org/abs/2506.14227).
 
-# References {-}
-
-[BFHS25] A. Bjerg, S. Fournais, P. Hearnshaw and J. P. Solovej, *The angular momentum distribution of electrons in large atoms and its deviation from Madelung's rule*, 2025, [arXiv:2506.14227](https://arxiv.org/abs/2506.14227).
-
-[Per26] M. Perreault, *Where the $n+l$ rule breaks in the Thomas-Fermi atom: certified zero-energy thresholds, Madelung order through $n+l=10$, and the first overlap at $n+l=11$*, 2026, Zenodo. [doi:10.5281/zenodo.24542256](https://doi.org/10.5281/zenodo.24542256).
-
-[Per26a] M. Perreault, *The Demkov-Ostrovsky Madelung model as the circle-invariant conformal Laplacian of the round 4-sphere*, 2026, Zenodo. [doi:10.5281/zenodo.24522163](https://doi.org/10.5281/zenodo.24522163).
-
-[Per26b] M. Perreault, *A first-order Madelung tie-break on the round four-sphere: Kelvin parity, convex order and the Thomas-Fermi field*, 2026, Zenodo. [doi:10.5281/zenodo.24533673](https://doi.org/10.5281/zenodo.24533673).
-
-```{=latex}
-\par\ifdim\dimexpr\pagegoal-\pagetotal\relax<15\baselineskip\ifdim\pagetotal>0pt\newpage\fi\fi
-```
-
 # Use of AI {-}
 
 Claude (Anthropic) was used in November 2026, under the author's direction, for drafting, figures and checks.
@@ -117,3 +103,17 @@ Claude (Anthropic) was used in November 2026, under the author's direction, for 
 The full paper, with the proofs, is *Where the $n+l$ rule breaks in the Thomas-Fermi atom: certified zero-energy thresholds, Madelung order through $n+l=10$, and the first overlap at $n+l=11$*, by Michaël Perreault.
 
 DOI: [doi:10.5281/zenodo.24542256](https://doi.org/10.5281/zenodo.24542256)
+
+```{=latex}
+\par\ifdim\dimexpr\pagegoal-\pagetotal\relax<15\baselineskip\ifdim\pagetotal>0pt\newpage\fi\fi
+```
+
+# References {-}
+
+[BFHS25] A. Bjerg, S. Fournais, P. Hearnshaw and J. P. Solovej, *The angular momentum distribution of electrons in large atoms and its deviation from Madelung's rule*, 2025, [arXiv:2506.14227](https://arxiv.org/abs/2506.14227).
+
+[Per26] M. Perreault, *Where the $n+l$ rule breaks in the Thomas-Fermi atom: certified zero-energy thresholds, Madelung order through $n+l=10$, and the first overlap at $n+l=11$*, 2026, Zenodo. [doi:10.5281/zenodo.24542256](https://doi.org/10.5281/zenodo.24542256).
+
+[Per26a] M. Perreault, *The Demkov-Ostrovsky Madelung model as the circle-invariant conformal Laplacian of the round 4-sphere*, 2026, Zenodo. [doi:10.5281/zenodo.24522163](https://doi.org/10.5281/zenodo.24522163).
+
+[Per26b] M. Perreault, *A first-order Madelung tie-break on the round four-sphere: Kelvin parity, convex order and the Thomas-Fermi field*, 2026, Zenodo. [doi:10.5281/zenodo.24533673](https://doi.org/10.5281/zenodo.24533673).
